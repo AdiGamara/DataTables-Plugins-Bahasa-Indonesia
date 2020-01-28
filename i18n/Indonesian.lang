@@ -1,0 +1,31 @@
+/** 
+* Indonesian Translation
+* @name Indonesian
+* @anchor Indonesian
+* @author Adi Gamara
+*/
+
+{
+    "decimal": "",
+    "emptyTable": "Tidak ada data yang tersedia",
+    "info": "Menampilkan _START_ sampai _END_ dari _TOTAL_ data", 
+    "infoEmpty": "Menampilkan 0 sampai 0 dari 0 data",
+    "infoFiltered": "(Menyaring dari _MAX_ total data)",
+    "infoPostFix": "",
+    "thousands": ",",
+    "lengthMenu": "Tampilkan _MENU_ data",
+    "loadingRecords": "Memuat...",
+    "processing": "Sedang Memproses...",
+    "search": "Cari:",
+    "zeroRecords": "Tidak ada data yang ditemukan",
+    "paginate": {
+        "first": "Pertama",
+        "last": "Terakhir",
+        "next": "Selanjutnya",
+        "previous": "Sebelumnya"
+    },
+    "aria": {
+        "sortAscending": ": aktifkan untuk mengurutkan kolom secara menaik",
+        "sortDescending": ": aktifkan untuk mengurutkan kolom secara menurun"
+    }
+}
